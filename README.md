@@ -1,6 +1,6 @@
 # Prime Number Generation Benchmark - Sieve of Atkin vs. Sieve of Eratosthenes
 
-This repository contains a benchmark comparison of two popular prime number generation algorithms, the Sieve of Atkin and the Sieve of Eratosthenes. The code is implemented in Python using PyTorch, both on the CPU and with MPS (Multi-Processor Service) support when available.
+This repository contains a benchmark comparison of two popular prime number generation algorithms, the Sieve of Atkin and the Sieve of Eratosthenes. The code is implemented in Python using PyTorch, both on the CPU and with MPS (Metal Performance Shaders) support when available.
 
 The benchmark measures the time taken to generate prime numbers up to a given limit, and it provides a comparison of the performance of the two algorithms, as well as a naïve MPS implementation for reference.
 
